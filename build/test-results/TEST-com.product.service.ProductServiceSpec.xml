@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.product.service.ProductServiceSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-04-18T01:58:57" hostname="C02QLBE3G8WPMBP" time="0.041">
+  <properties/>
+  <testcase name="get all products" classname="com.product.service.ProductServiceSpec" time="0.037"/>
+  <testcase name="add a product" classname="com.product.service.ProductServiceSpec" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
